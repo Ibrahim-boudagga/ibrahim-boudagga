@@ -1,4 +1,4 @@
-# Ibrahim Boudegga
+# Ibrahim Boudagga
 
 **Passionate Mobile Application Developer | Flutter & KMM Enthusiast | Problem Solver**
 

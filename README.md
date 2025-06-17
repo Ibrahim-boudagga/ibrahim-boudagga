@@ -34,8 +34,8 @@
 
 ## 📫 How to reach me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ibrahim-boudagga-496821334/)  
-- **Email**: [boudeggaibrahim@mahdia.r-iset.tn]  
+- **LinkedIn**: [Ibrahim Boudagga](https://www.linkedin.com/in/ibrahim-boudagga-496821334/)  
+- **Email**: [ibrahim.boudagga.cg@gmail.com]  
 
 ## 😄 Pronouns:
 

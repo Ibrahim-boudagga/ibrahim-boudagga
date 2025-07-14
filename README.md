@@ -99,10 +99,26 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 [![Enterprise Apps](https://img.shields.io/badge/Enterprise_Apps-Production-blue?style=flat)]
 
 **Production applications:**
-- **📦 Bundleit.io** (Germany): Google Maps, GetX, Firebase, MVVM
-- **🛡️ KingaSafety**: Safety app with Riverpod, geolocation, CI/CD
-- **📱 Wallpost Software**: Social app with Provider, AWS Amplify
-- **🌐 TLFnet**: Network app with GetX, remote config, Play Store
+
+#### **📦 Bundleit.io** (Germany)
+**Team**: 1 PO, 2 Senior Developers, 1 QA Tester, 1 Designer  
+**Technical Stack**: Visual Studio Code, Firebase, Cloud Functions (TypeScript), Google Maps, File_Picker, GetX state management, GitLab, SharedPreferences, Lottie, Firebase Analytics, Firebase Crashlytics, Generic_requester, Make.com, Brevo.com  
+
+#### **🛡️ KingaSafety**
+**Team**: 2 Senior Developers, 1 QA Tester, 1 Designer  
+**Technical Stack**: Visual Studio Code, Flutter SDK, WidgetKit (iOS), Riverpod, Firebase, RESTful APIs, Hive, Geolocation service, FastLane, CI/CD Pipelines, GitHub  
+**Features**: Safety application with geolocation, offline storage, and automated deployment  
+**Links**: [App Store](https://apps.apple.com/us/app/kinga-safety/id6443869502)
+
+#### **📱 Wallpost Software**
+**Team**: 1 Lead Dev, 2 Confirmed Developers, 1 QA Tester, 1 Designer  
+**Technical Stack**: Visual Studio Code, Mocktail, Flutter SDK, JSON, iOS, Provider, Inside APP language swizzling, AWS Amplify, Web services, Multipart requests, Inside APP Theme swizzling, Google Material, File_picker Framework, Strategy Pattern, Firebase Analytics, Firebase Crashlytics  
+**Links**: [App Store](https://apps.apple.com/us/app/wallpost-software/id1044979110) | [Play Store](https://play.google.com/store/apps/details?id=com.SMIT.WallPostSoftware&hl=ln)
+
+#### **🌐 TLFnet**
+**Team**: 2 Senior Developers, 1 Backend Developer, 1 QA Tester, 1 Designer  
+**Technical Stack**: Visual Studio Code, Android Studio, Flutter SDK, Swift Generics, JSON, iOS, Inside APP language swizzling, Web services, Multipart requests, Inside APP Theme swizzling, Google Material, File_picker Framework, GetX State management  
+**Links**: [Play Store](https://play.google.com/store/apps/details?id=com.tlfnet)
 
 ### **📱 Flutter Enterprise Projects**
 [![Flutter Apps](https://img.shields.io/badge/Flutter_Apps-4_Years-orange?style=flat&logo=flutter)]

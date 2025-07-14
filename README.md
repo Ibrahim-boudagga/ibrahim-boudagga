@@ -39,7 +39,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 - **🚀 MLOps**: Model deployment, production pipelines
 - **💬 Language Models**: Understanding and working with LLMs
 
-### **📱 Mobile Development** (3+ Years)
+### **📱 Mobile Development** (4+ Years)
 ![Flutter](https://img.shields.io/badge/Flutter-Senior_Developer-orange?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Expert-purple?style=flat&logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-Expert-yellow?style=flat&logo=firebase)

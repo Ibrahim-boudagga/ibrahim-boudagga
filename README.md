@@ -51,7 +51,7 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 - **🏗️ Architecture**: Clean Architecture, MVVM, BLoC Pattern
 - **🎨 UI/UX**: Custom widgets, animations, responsive design
 - **🔧 Backend**: Firebase, REST APIs, GraphQL
-- **📊 State Management**: Provider, Riverpod, BLoC
+- **📊 State Management**: GetX, Riverpod, BLoC
 - **🧪 Testing**: Unit tests, widget tests, integration tests
 - **🚀 Performance**: App optimization, memory management
 

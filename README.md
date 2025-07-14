@@ -168,16 +168,6 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 
 ---
 
-## 📊 **GitHub Stats**
-
-> **💡 Note**: GitHub stats only show public repositories. Most of my Flutter/Dart projects are in private repositories for client confidentiality.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-boudagga&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-boudagga&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🏆 **Achievements & Certifications**
 
 ### **🧠 AI/ML Learning Journey**

@@ -44,14 +44,16 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-orange?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Advanced-purple?style=flat&logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-Expert-yellow?style=flat&logo=firebase)
+![Google Maps](https://img.shields.io/badge/Google_Maps-Expert-blue?style=flat&logo=googlemaps)
 ![iOS](https://img.shields.io/badge/iOS-Developer-blue?style=flat&logo=apple)
 ![Android](https://img.shields.io/badge/Android-Developer-green?style=flat&logo=android)
 
 **Mobile Expertise:**
 - **🏗️ Architecture**: Clean Architecture, MVVM, BLoC Pattern
 - **🎨 UI/UX**: Custom widgets, animations, responsive design
+- **🗺️ Location Services**: Google Maps integration, geolocation, route planning
 - **🔧 Backend**: Firebase, REST APIs, GraphQL
-- **📊 State Management**: GetX, Riverpod, BLoC
+- **📊 State Management**: Provider, Riverpod, BLoC, GetX
 - **🧪 Testing**: Unit tests, widget tests, integration tests
 - **🚀 Performance**: App optimization, memory management
 
@@ -110,7 +112,8 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 **Enterprise-level mobile applications:**
 - **🏗️ Clean Architecture**: Scalable, maintainable code
 - **🎨 Beautiful UI/UX**: Custom designs and animations
-- **🔧 Advanced Features**: Complex state management, APIs
+- **🗺️ Location Services**: Google Maps integration, geolocation, route planning
+- **🔧 Advanced Features**: Complex state management (GetX, BLoC, Riverpod), APIs
 - **🚀 Performance**: Optimized for speed and efficiency
 - **🧪 Testing**: Comprehensive test coverage
 
@@ -147,6 +150,7 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-orange?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Advanced-purple?style=flat&logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-Expert-yellow?style=flat&logo=firebase)
+![Google Maps](https://img.shields.io/badge/Google_Maps-Expert-blue?style=flat&logo=googlemaps)
 ![iOS](https://img.shields.io/badge/iOS-Developer-blue?style=flat&logo=apple)
 ![Android](https://img.shields.io/badge/Android-Developer-green?style=flat&logo=android)
 

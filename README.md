@@ -99,7 +99,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 [![Enterprise Apps](https://img.shields.io/badge/Enterprise_Apps-Production-blue?style=flat)]
 
 **Production applications:**
-- **📦 Bundleit.io** (Germany): E-commerce with Google Maps, GetX, Firebase
+- **📦 Bundleit.io** (Germany): Google Maps, GetX, Firebase, MVVM
 - **🛡️ KingaSafety**: Safety app with Riverpod, geolocation, CI/CD
 - **📱 Wallpost Software**: Social app with Provider, AWS Amplify
 - **🌐 TLFnet**: Network app with GetX, remote config, Play Store
@@ -195,7 +195,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 - **Performance Optimization** specialist
 
 ### **🏢 Enterprise Development**
-- **Senior Flutter Developer** - 3+ years of production experience
+- **Senior Flutter Developer** - 4+ years of production experience
 - **Clean Architecture Expert** - Modular, scalable applications
 - **Platform Channels Specialist** - Native iOS/Android integration
 - **CI/CD Pipeline Expert** - FastLane, CodeMagic, automated deployments

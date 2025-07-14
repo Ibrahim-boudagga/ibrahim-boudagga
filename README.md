@@ -12,81 +12,80 @@
 
 ## 🎯 **About Me**
 
-I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of experience** in mobile development, specializing in **AI/ML solutions**, **healthcare applications**, and **enterprise automation**. I love building intelligent, scalable applications that solve real-world problems.
+I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile development, currently expanding into **AI & Machine Learning**. I specialize in **enterprise applications**, **location-based services**, and building **intelligent mobile solutions**. I love creating scalable, performant applications that solve real-world problems.
 
 ### **🔄 Professional Journey**
-- **📱 Flutter Expert** (4+ years) → **🧠 AI/ML Engineer** (Present)
-- **🏥 Healthcare AI Specialist** - Medical applications and telemedicine
-- **🤖 Automation Expert** - n8n, Make.com, LangChain, RAG systems
-- **🎯 Goal**: Creating AI-powered solutions that make a difference
+- **📱 Senior Flutter Developer** (4+ years) → **🧠 AI/ML Learner** (Present)
+- **🏢 Enterprise Applications** - Clean Architecture, scalable solutions
+- **🗺️ Location Services** - Google Maps, geolocation, route planning
+- **🎯 Goal**: Mastering AI/ML to create intelligent mobile applications
 
 ---
 
 ## 🛠️ **Technical Expertise**
 
-### **🧠 AI & Machine Learning** (Expert)
+### **🧠 AI & Machine Learning** (Learning)
 ![Python](https://img.shields.io/badge/Python-AI_ML-green?style=flat&logo=python)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Expert-yellow?style=flat&logo=huggingface)
-![Kaggle](https://img.shields.io/badge/Kaggle-Expert-blue?style=flat&logo=kaggle)
-![LangChain](https://img.shields.io/badge/LangChain-RAG_Expert-orange?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-yellow?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-red?style=flat&logo=pytorch)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-orange?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-yellow?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-red?style=flat&logo=pytorch)
 
-**AI/ML Specializations:**
-- **🤖 RAG Systems**: Advanced retrieval-augmented generation
-- **🏥 Healthcare AI**: Medical applications, clinical AI, HIPAA compliance
-- **📊 Data Science**: Statistical analysis, predictive analytics
-- **🧠 Deep Learning**: Neural networks, transformers, fine-tuning
+**AI/ML Learning Focus:**
+- **🗣️ NLP Fundamentals**: Text preprocessing, lowercasing, stopwords removal
+- **📊 Data Science**: Pandas, NumPy, data visualization
+- **🤖 Machine Learning**: Supervised/unsupervised learning
+- **🧠 Deep Learning**: Neural networks, computer vision
 - **🚀 MLOps**: Model deployment, production pipelines
-- **💬 NLP**: Text processing, sentiment analysis, language models
+- **💬 Language Models**: Understanding and working with LLMs
 
-### **📱 Mobile Development** (4+ Years)
-![Flutter](https://img.shields.io/badge/Flutter-Expert-orange?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Advanced-purple?style=flat&logo=dart)
+### **📱 Mobile Development** (3+ Years)
+![Flutter](https://img.shields.io/badge/Flutter-Senior_Developer-orange?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Expert-purple?style=flat&logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-Expert-yellow?style=flat&logo=firebase)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-Expert-blue?style=flat&logo=googlemaps)
 ![iOS](https://img.shields.io/badge/iOS-Developer-blue?style=flat&logo=apple)
 ![Android](https://img.shields.io/badge/Android-Developer-green?style=flat&logo=android)
 
 **Mobile Expertise:**
-- **🏗️ Architecture**: Clean Architecture, MVVM, BLoC Pattern
+- **🏗️ Architecture**: Clean Architecture, MVVM, MVC, Modular Structure
 - **🎨 UI/UX**: Custom widgets, animations, responsive design
 - **🗺️ Location Services**: Google Maps integration, geolocation, route planning
-- **🔧 Backend**: Firebase, REST APIs, GraphQL
-- **📊 State Management**: Provider, Riverpod, BLoC, GetX
-- **🧪 Testing**: Unit tests, widget tests, integration tests
-- **🚀 Performance**: App optimization, memory management
+- **🔧 Backend**: Firebase, REST APIs, Cloud Functions (TypeScript)
+- **📊 State Management**: Provider, Riverpod, BLoC, GetX, Hydrated BLoC
+- **🧪 Testing**: Unit tests, widget tests, integration tests (Mockito)
+- **🚀 Performance**: App optimization, memory management, CI/CD
 
-### **🏥 Healthcare & Medical AI**
-![Healthcare](https://img.shields.io/badge/Healthcare-AI-blue?style=flat&logo=heart)
-![Telemedicine](https://img.shields.io/badge/Telemedicine-Expert-green?style=flat)
-![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-red?style=flat)
-![Medical Devices](https://img.shields.io/badge/Medical_Devices-Integration-purple?style=flat)
+### **🏢 Enterprise Development**
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Expert-blue?style=flat)
+![CI/CD](https://img.shields.io/badge/CI_CD-Pipelines-green?style=flat)
+![Payment Gateways](https://img.shields.io/badge/Payment_Gateways-Stripe_PayPal-orange?style=flat)
+![Platform Channels](https://img.shields.io/badge/Platform_Channels-Native_Integration-purple?style=flat)
 
-**Healthcare Specializations:**
-- **🏥 Medical Applications**: Clinical AI, telemedicine platforms
-- **🔒 HIPAA Compliance**: Secure healthcare data handling
-- **📱 Mobile Health**: Healthcare apps, medical device integration
-- **🤖 AI Chatbots**: Healthcare automation and patient support
-- **📊 Medical Analytics**: Healthcare data analysis and insights
+**Enterprise Specializations:**
+- **🏗️ Clean Architecture**: Modular, scalable, maintainable code
+- **🔧 Platform Channels**: Native iOS/Android integration
+- **💳 Payment Integration**: Stripe, PayPal, secure transactions
+- **🚀 CI/CD**: FastLane, CodeMagic, automated deployments
+- **📊 Analytics**: Firebase Analytics, Crashlytics, performance monitoring
 
-### **⚙️ Automation & Integration**
-![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=flat)
-![Make.com](https://img.shields.io/badge/Make.com-Expert-blue?style=flat)
-![Slack](https://img.shields.io/badge/Slack-Integration-purple?style=flat&logo=slack)
+### **⚙️ Development Tools & Methodologies**
+![Agile](https://img.shields.io/badge/Agile-Scrum_Master-green?style=flat)
+![Git](https://img.shields.io/badge/Git-Expert-red?style=flat&logo=git)
 ![Jira](https://img.shields.io/badge/Jira-Administrator-blue?style=flat&logo=jira)
+![Make.com](https://img.shields.io/badge/Make.com-Expert-blue?style=flat)
 
-**Automation Expertise:**
-- **🔄 Workflow Automation**: n8n, Make.com, custom integrations
-- **💬 Team Communication**: Slack integration, team coordination
-- **📋 Project Management**: Jira administration, agile methodologies
-- **🤖 AI Automation**: LangChain, RAG systems, AI agents
+**Development Expertise:**
+- **🔄 Agile/Scrum**: Sprint planning, daily stand-ups, retrospectives
+- **📋 Project Management**: Jira, GitLab/GitHub, code reviews
+- **🛠️ Tools**: Postman, VS Code, Android Studio, Figma
+- **🤖 Automation**: Make.com, workflow automation, CI/CD
 
 ---
 
 ## 📚 **Professional Projects**
 
-### **🧠 AI/ML Course Repository**
+### **🧠 AI/ML Learning Journey**
 [![AI Course](https://img.shields.io/badge/AI_Course-Repository-blue?style=flat&logo=github)](https://github.com/Ibrahim-boudagga/-Learn-AI-ML-with-Me-)
 
 **Comprehensive AI/ML learning path with:**
@@ -96,15 +95,14 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 - **📖 Detailed Guides**: Industry best practices and explanations
 - **⚡ Performance Optimization**: Efficient coding practices
 
-### **🏥 Healthcare AI Projects**
-[![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-Projects-blue?style=flat&logo=heart)]
+### **🏢 Enterprise Projects**
+[![Enterprise Apps](https://img.shields.io/badge/Enterprise_Apps-Production-blue?style=flat)]
 
-**Medical AI applications:**
-- **🏥 Telemedicine Platforms**: Secure patient-doctor communication
-- **🤖 Clinical AI**: Medical diagnosis assistance systems
-- **📱 Mobile Health Apps**: HIPAA-compliant healthcare applications
-- **🔒 Security**: HIPAA compliance and data protection
-- **📊 Analytics**: Medical data analysis and insights
+**Production applications:**
+- **📦 Bundleit.io** (Germany): E-commerce with Google Maps, GetX, Firebase
+- **🛡️ KingaSafety**: Safety app with Riverpod, geolocation, CI/CD
+- **📱 Wallpost Software**: Social app with Provider, AWS Amplify
+- **🌐 TLFnet**: Network app with GetX, remote config, Play Store
 
 ### **📱 Flutter Enterprise Projects**
 [![Flutter Apps](https://img.shields.io/badge/Flutter_Apps-4_Years-orange?style=flat&logo=flutter)]
@@ -122,15 +120,15 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 ## 🎯 **Career Goals**
 
 ### **Short Term** 🎯
-- **🧠 AI Engineering**: Master advanced AI/ML techniques
-- **🏥 Healthcare AI**: Develop innovative medical AI solutions
-- **🤖 Automation**: Build comprehensive automation systems
+- **🧠 AI/ML Learning**: Complete comprehensive NLP and ML course
+- **🏢 Enterprise Solutions**: Build more scalable applications
+- **🤖 Automation**: Enhance workflow automation skills
 - **📱 AI Integration**: Combine AI with mobile applications
 
 ### **Long Term** 🚀
 - **🧠 AI Engineer**: Full-stack AI development leadership
-- **🏥 Healthcare AI Specialist**: Leading medical AI innovation
-- **🤖 Automation Consultant**: Help businesses implement AI solutions
+- **🏢 Senior Flutter Developer**: Leading mobile development teams
+- **🤖 AI/ML Consultant**: Help businesses implement AI solutions
 - **📚 Teaching**: Share knowledge with the community
 
 ---
@@ -139,12 +137,12 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 
 ### **🧠 AI/ML Stack**
 ![Python](https://img.shields.io/badge/Python-AI_ML-green?style=flat&logo=python)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Expert-yellow?style=flat&logo=huggingface)
-![Kaggle](https://img.shields.io/badge/Kaggle-Expert-blue?style=flat&logo=kaggle)
-![LangChain](https://img.shields.io/badge/LangChain-RAG_Expert-orange?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-yellow?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-red?style=flat&logo=pytorch)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-orange?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Science-blue?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-green?style=flat&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-yellow?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-red?style=flat&logo=pytorch)
 
 ### **📱 Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-orange?style=flat&logo=flutter)
@@ -154,11 +152,11 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 ![iOS](https://img.shields.io/badge/iOS-Developer-blue?style=flat&logo=apple)
 ![Android](https://img.shields.io/badge/Android-Developer-green?style=flat&logo=android)
 
-### **🏥 Healthcare & Automation**
-![Healthcare](https://img.shields.io/badge/Healthcare-AI-blue?style=flat&logo=heart)
-![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=flat)
+### **🏢 Enterprise & Development Tools**
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Expert-blue?style=flat)
+![CI/CD](https://img.shields.io/badge/CI_CD-Pipelines-green?style=flat)
 ![Make.com](https://img.shields.io/badge/Make.com-Expert-blue?style=flat)
-![Slack](https://img.shields.io/badge/Slack-Integration-purple?style=flat&logo=slack)
+![Agile](https://img.shields.io/badge/Agile-Scrum_Master-green?style=flat)
 ![Jira](https://img.shields.io/badge/Jira-Administrator-blue?style=flat&logo=jira)
 
 ### **🛠️ Development Tools**
@@ -182,12 +180,12 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 
 ## 🏆 **Achievements & Certifications**
 
-### **🧠 AI/ML Expertise**
-- **HuggingFace Developer** - Advanced model development and deployment
-- **Kaggle Expert** - Data science competitions and real-world projects
-- **Prompt Engineer** - Specialized in AI prompt optimization
-- **Machine Learning Engineer** - End-to-end ML pipeline development
-- **MLOps Engineer** - Production model deployment and monitoring
+### **🧠 AI/ML Learning Journey**
+- **Comprehensive NLP Course** - Text preprocessing, lowercasing, stopwords removal
+- **Practical Projects** - Real-world AI/ML implementations
+- **Professional Tools** - Colored logging, debugging utilities
+- **Best Practices** - Industry-standard coding practices
+- **Performance Optimization** - Efficient coding practices
 
 ### **📱 Mobile Development**
 - **4+ Years Experience** in mobile app development
@@ -196,17 +194,17 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 - **Clean Architecture** implementation expertise
 - **Performance Optimization** specialist
 
-### **🏥 Healthcare AI**
-- **Healthcare App Developer** - Medical applications and telemedicine
-- **Medical AI Expert** - Clinical AI and diagnostic assistance
-- **HIPAA Compliant Development** - Secure healthcare data handling
-- **Medical Device Integration** - IoT and medical hardware integration
+### **🏢 Enterprise Development**
+- **Senior Flutter Developer** - 3+ years of production experience
+- **Clean Architecture Expert** - Modular, scalable applications
+- **Platform Channels Specialist** - Native iOS/Android integration
+- **CI/CD Pipeline Expert** - FastLane, CodeMagic, automated deployments
 
-### **⚙️ Automation & Integration**
-- **Agile Coach & Scrum Master** - Team leadership and project management
-- **Slack Integration Specialist** - Team communication automation
+### **⚙️ Development & Methodologies**
+- **Agile/Scrum Practitioner** - Sprint planning, daily stand-ups, retrospectives
+- **Git Expert** - Version control, team collaboration, best practices
 - **Jira Administrator** - Project management and workflow optimization
-- **n8n & Make.com Expert** - Workflow automation and integration
+- **Make.com Expert** - Workflow automation and integration
 
 ---
 
@@ -222,25 +220,25 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 ## 💡 **What I'm Working On**
 
 ### **🧠 Current Focus**
-- **AI/ML Engineering**: Advanced NLP, RAG systems, healthcare AI
-- **Healthcare Applications**: Medical AI, telemedicine platforms
-- **Automation Solutions**: n8n, Make.com, LangChain integrations
+- **AI/ML Learning**: Comprehensive NLP and machine learning course
+- **Enterprise Applications**: Building scalable, production-ready apps
+- **Automation Solutions**: Make.com, workflow automation
 - **Knowledge Sharing**: Educational content and tutorials
 
 ### **🎯 Next Steps**
-- **Deep Learning**: Advanced neural networks and transformers
-- **Computer Vision**: Medical imaging and diagnostic AI
-- **Production Deployment**: MLOps and healthcare AI deployment
-- **AI Integration**: Combining AI with mobile and healthcare applications
+- **Deep Learning**: Neural networks and advanced ML
+- **Computer Vision**: Image processing and object detection
+- **Production Deployment**: MLOps and model deployment
+- **AI Integration**: Combining AI with mobile applications
 
 ---
 
 ## 🚀 **Fun Facts**
 
-- **🎯 Goal**: Leading AI/ML innovation in healthcare and mobile
-- **💡 Philosophy**: "Build intelligent solutions that make a real impact"
+- **🎯 Goal**: Transition from Flutter Expert to AI/ML Expert
+- **💡 Philosophy**: "Learn by doing, build by creating"
 - **🎨 Passion**: Beautiful code and intelligent applications
-- **🏥 Mission**: Making healthcare technology accessible and effective
+- **🏢 Mission**: Creating enterprise-grade mobile applications with AI
 
 ---
 

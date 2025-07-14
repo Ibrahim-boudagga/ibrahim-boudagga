@@ -176,6 +176,8 @@ I'm a **Full-Stack AI Engineer** and **Flutter Expert** with **4+ years of exper
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-boudagga&layout=compact&theme=radical&hide_border=true)
 
+> **💡 Note**: GitHub stats only show public repositories. Most of my Flutter/Dart projects are in private repositories for client confidentiality.
+
 ---
 
 ## 🏆 **Achievements & Certifications**

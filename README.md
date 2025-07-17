@@ -5,8 +5,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/Ibrahim-boudagga)
 [![Flutter](https://img.shields.io/badge/Flutter-Expert-orange?style=flat&logo=flutter)](https://flutter.dev)
 [![AI/ML](https://img.shields.io/badge/AI_ML-Engineer-green?style=flat&logo=python)](https://python.org)
-[![Healthcare](https://img.shields.io/badge/Healthcare-AI-blue?style=flat&logo=heart)](https://ibrahimboudagga.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ibrahim-boudagga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ibrahim-boudagga-496821334)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-purple?style=flat)](https://ibrahimboudagga.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ibrahim.boudagga.cg@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/ibrahim_boudagga/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/21621208134)
 
 ---
 
@@ -24,21 +27,24 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🗣️ **Programming Languages Overview**
 
 ```
- 1. 🐦 Dart         ███  21.5% (691,759 bytes)
- 2. 🔵 TypeScript   █  12.1% (387,675 bytes)
- 3. ☕ Kotlin       █   9.7% (312,748 bytes)
- 4. 🌐 HTML         █   8.8% (282,802 bytes)
- 5. 🔴 C            █   8.2% (264,170 bytes)
- 6. 🔴 C++          █   8.2% (264,170 bytes)
- 7. 🍎 Swift        █   8.2% (264,170 bytes)
- 8. 🍎 Objective-C  █   8.2% (264,170 bytes)
- 9. 🐍 Python          4.6% (147,423 bytes)
-10. 🟡 JavaScript      4.1% (130,093 bytes)
-11. 🎨 CSS             3.8% (123,205 bytes)
-12. 📊 Jupyter Notebook    2.4% (78,269 bytes)
+ 1. 🐦 Dart         ███  21.2% (691,759 bytes)
+ 2. 🔵 TypeScript   █  11.9% (387,838 bytes)
+ 3. ☕ Kotlin       █   9.6% (312,748 bytes)
+ 4. 🌐 HTML         █   9.2% (301,677 bytes)
+ 5. 🔴 C            █   8.1% (264,170 bytes)
+ 6. 🔴 C++          █   8.1% (264,170 bytes)
+ 7. 🍎 Swift        █   8.1% (264,170 bytes)
+ 8. 🍎 Objective-C  █   8.1% (264,170 bytes)
+ 9. 🐍 Python          5.1% (166,298 bytes)
+10. 🟡 JavaScript      4.0% (130,256 bytes)
+11. 🎨 CSS             3.8% (123,368 bytes)
+12. 📊 Jupyter Notebook    3.0% (96,981 bytes)
 ```
 
-**Total Languages**: 12 | **Total Size**: 3,210,654 bytes
+**Total Languages**: 12 | **Total Size**: 3,267,605 bytes
+
+> **Automated Analytics Pipeline**: This languages dashboard is automatically updated daily via GitHub Actions to ensure the most current statistics are displayed.
+
 
 ## 🛠️ **Technical Expertise**
 
@@ -266,10 +272,10 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 - **Engagement Rate**: `0.9` per repository
 
 ### 📊 **Development Activity**
-- **Total Commits**: `193` 📝
-- **Average Commits per Repository**: `14.8`
-- **Commit Frequency**: `14.8` commits per repository
-- **Development Intensity**: `14.8` commits per engagement
+- **Total Commits**: `198` 📝
+- **Average Commits per Repository**: `15.2`
+- **Commit Frequency**: `15.2` commits per repository
+- **Development Intensity**: `15.2` commits per engagement
 
 ---
 
@@ -324,10 +330,12 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 
 ## 📫 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ibrahim-boudagga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ibrahim-boudagga-496821334)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/Ibrahim-boudagga)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-purple?style=flat)](https://ibrahimboudagga.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ibrahim.boudagga@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ibrahim.boudagga.cg@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/ibrahim_boudagga/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/21621208134)
 
 ---
 

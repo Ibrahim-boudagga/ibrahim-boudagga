@@ -21,6 +21,24 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 - **🎯 Goal**: Mastering AI/ML to create intelligent mobile applications
 
 ---
+### 🗣️ **Programming Languages Overview**
+
+```
+ 1. 🐦 Dart         ███  21.5% (691,759 bytes)
+ 2. 🔵 TypeScript   █  12.1% (387,675 bytes)
+ 3. ☕ Kotlin       █   9.7% (312,748 bytes)
+ 4. 🌐 HTML         █   8.8% (282,802 bytes)
+ 5. 🔴 C            █   8.2% (264,170 bytes)
+ 6. 🔴 C++          █   8.2% (264,170 bytes)
+ 7. 🍎 Swift        █   8.2% (264,170 bytes)
+ 8. 🍎 Objective-C  █   8.2% (264,170 bytes)
+ 9. 🐍 Python          4.6% (147,423 bytes)
+10. 🟡 JavaScript      4.1% (130,093 bytes)
+11. 🎨 CSS             3.8% (123,205 bytes)
+12. 📊 Jupyter Notebook    2.4% (78,269 bytes)
+```
+
+**Total Languages**: 12 | **Total Size**: 3,210,654 bytes
 
 ## 🛠️ **Technical Expertise**
 
@@ -218,14 +236,6 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 
 ---
 
-### 🏗️ **Repository Architecture**
-- **Total Repositories**: `13`
-- **Owned Repositories**: `10` (`76.9%`)
-- **Collaborative Repositories**: `3` (`23.1%`)
-- **Public Repositories**: `3`
-- **Private Repositories**: `10`
-- **Repository Distribution**: `23.1%` Public / `76.9%` Private
-
 ### 📁 **All Repositories**
 
 ```
@@ -246,37 +256,20 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 
 **Total**: 13 repositories
 
-### 🗣️ **Programming Languages Overview**
 
-```
- 1. 🐦 Dart         ███  21.5% (691,759 bytes)
- 2. 🔵 TypeScript   █  12.1% (387,765 bytes)
- 3. ☕ Kotlin       █   9.7% (312,748 bytes)
- 4. 🌐 HTML         █   8.8% (282,892 bytes)
- 5. 🔴 C            █   8.2% (264,170 bytes)
- 6. 🔴 C++          █   8.2% (264,170 bytes)
- 7. 🍎 Swift        █   8.2% (264,170 bytes)
- 8. 🍎 Objective-C  █   8.2% (264,170 bytes)
- 9. 🐍 Python          4.6% (147,513 bytes)
-10. 🟡 JavaScript      4.1% (130,183 bytes)
-11. 🎨 CSS             3.8% (123,295 bytes)
-12. 📊 Jupyter Notebook    2.4% (78,269 bytes)
-```
-
-**Total Languages**: 12 | **Total Size**: 3,211,104 bytes
 
 ### 🎯 **Engagement Metrics**
-- **Total Stars**: `10` ⭐
+- **Total Stars**: `11` ⭐
 - **Total Forks**: `1` 🍴
 - **Average Stars per Repository**: `0.8`
 - **Average Forks per Repository**: `0.1`
-- **Engagement Rate**: `0.8` per repository
+- **Engagement Rate**: `0.9` per repository
 
 ### 📊 **Development Activity**
-- **Total Commits**: `185` 📝
-- **Average Commits per Repository**: `14.2`
-- **Commit Frequency**: `14.2` commits per repository
-- **Development Intensity**: `15.4` commits per engagement
+- **Total Commits**: `189` 📝
+- **Average Commits per Repository**: `14.5`
+- **Commit Frequency**: `14.5` commits per repository
+- **Development Intensity**: `14.5` commits per engagement
 
 ---
 
@@ -294,7 +287,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 - **Collaborative Work**: `3` team/company projects
 - **Code Sharing**: `3` public contributions
 - **Private Development**: `10` enterprise-level projects
-- **Community Engagement**: `11` total interactions
+- **Community Engagement**: `12` total interactions
 
 ---
 

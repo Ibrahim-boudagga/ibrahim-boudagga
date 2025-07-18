@@ -25,21 +25,21 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🗣️ **Programming Languages Overview**
 
 ```
- 1. 🐦 Dart         ███  20.3% (691,759 bytes)
- 2. 🔵 TypeScript   █  11.4% (386,651 bytes)
- 3. 🌐 HTML         █  10.2% (347,680 bytes)
- 4. ☕ Kotlin       █   9.2% (312,748 bytes)
- 5. 🔴 C            █   7.8% (264,170 bytes)
- 6. 🔴 C++          █   7.8% (264,170 bytes)
- 7. 🍎 Swift        █   7.8% (264,170 bytes)
- 8. 🍎 Objective-C  █   7.8% (264,170 bytes)
- 9. 🐍 Python          6.2% (212,301 bytes)
-10. 📊 Jupyter Notebook    4.2% (144,171 bytes)
-11. 🟡 JavaScript      3.8% (129,069 bytes)
-12. 🎨 CSS             3.6% (122,181 bytes)
+ 1. 🐦 Dart               ██  19.2%
+ 2. 🐍 Python             █  10.8%
+ 3. 🔵 TypeScript         █  10.7%
+ 4. 📊 Jupyter Notebook   █   8.9%
+ 5. ☕ Kotlin             █   8.7%
+ 6. 🔴 C                  █   7.3%
+ 7. 🔴 C++                █   7.3%
+ 8. 🍎 Swift              █   7.3%
+ 9. 🍎 Objective-C        █   7.3%
+10. 🌐 HTML                  5.6%
+11. 🟡 JavaScript            3.6%
+12. 🎨 CSS                   3.4%
 ```
 
-**Total Languages**: 12 | **Total Size**: 3,403,240 bytes
+**Total Languages**: 12
 
 > **Automated Analytics Pipeline**: This languages dashboard is automatically updated daily via GitHub Actions to ensure the most current statistics are displayed.
 
@@ -145,7 +145,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `11` ⭐
 - **Total Forks**: `1` 🍴
-- **Total Commits**: `222` 📝
+- **Total Commits**: `234` 📝
 - **Average Stars per Repository**: `0.8`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.9` per repository

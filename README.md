@@ -26,20 +26,20 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 
 ```
  1. 🐦 Dart         ███  20.3% (691,759 bytes)
- 2. 🔵 TypeScript   █  11.4% (386,664 bytes)
- 3. 🌐 HTML         █  10.2% (347,693 bytes)
+ 2. 🔵 TypeScript   █  11.4% (386,651 bytes)
+ 3. 🌐 HTML         █  10.2% (347,680 bytes)
  4. ☕ Kotlin       █   9.2% (312,748 bytes)
  5. 🔴 C            █   7.8% (264,170 bytes)
  6. 🔴 C++          █   7.8% (264,170 bytes)
  7. 🍎 Swift        █   7.8% (264,170 bytes)
  8. 🍎 Objective-C  █   7.8% (264,170 bytes)
- 9. 🐍 Python          6.2% (212,314 bytes)
+ 9. 🐍 Python          6.2% (212,301 bytes)
 10. 📊 Jupyter Notebook    4.2% (144,171 bytes)
-11. 🟡 JavaScript      3.8% (129,082 bytes)
-12. 🎨 CSS             3.6% (122,194 bytes)
+11. 🟡 JavaScript      3.8% (129,069 bytes)
+12. 🎨 CSS             3.6% (122,181 bytes)
 ```
 
-**Total Languages**: 12 | **Total Size**: 3,403,305 bytes
+**Total Languages**: 12 | **Total Size**: 3,403,240 bytes
 
 > **Automated Analytics Pipeline**: This languages dashboard is automatically updated daily via GitHub Actions to ensure the most current statistics are displayed.
 
@@ -142,32 +142,10 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 
 ---
 
-## 📈 **Advanced Analytics Dashboard**
-
-### 📁 **All Repositories**
-
-```
- 1. Ibrahim-boudagga/ibrahim-boudagga
- 2. Ibrahim-boudagga/reviz_up
- 3. Ibrahim-boudagga/GetX-Architeture
- 4. Ibrahim-boudagga/learn_soket_io
- 5. Ibrahim-boudagga/ibrahim_boudagga_portfolio
- 6. Ibrahim-boudagga/ai-automation-agency
- 7. Ibrahim-boudagga/try-to-implement-getx-logic-in-next-js
- 8. Ibrahim-boudagga/full-stack-notes-web-app
- 9. Ibrahim-boudagga/receipt-tracker-
-10. Ibrahim-boudagga/-Learn-AI-ML-with-Me-
-11. Jewelch/generic_requester
-12. Jewelch/bundleit
-13. bundleit/bundleitv1
-```
-
-**Total**: 13 repositories
-
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `11` ⭐
 - **Total Forks**: `1` 🍴
-- **Total Commits**: `220` 📝
+- **Total Commits**: `222` 📝
 - **Average Stars per Repository**: `0.8`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.9` per repository

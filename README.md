@@ -25,18 +25,18 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🗣️ **Programming Languages Overview**
 
 ```
- 1. 🐦 Dart               ██  19.2%
- 2. 🐍 Python             █  10.8%
- 3. 🔵 TypeScript         █  10.7%
- 4. 📊 Jupyter Notebook   █   8.9%
- 5. ☕ Kotlin             █   8.7%
- 6. 🔴 C                  █   7.3%
- 7. 🔴 C++                █   7.3%
- 8. 🍎 Swift              █   7.3%
- 9. 🍎 Objective-C        █   7.3%
-10. 🌐 HTML                  5.6%
-11. 🟡 JavaScript            3.6%
-12. 🎨 CSS                   3.4%
+ 1. 🐦 Dart               ██  18.8%
+ 2. 🐍 Python             █  11.6%
+ 3. 🔵 TypeScript         █  10.5%
+ 4. 📊 Jupyter Notebook   █   9.7%
+ 5. ☕ Kotlin             █   8.5%
+ 6. 🔴 C                  █   7.2%
+ 7. 🔴 C++                █   7.2%
+ 8. 🍎 Swift              █   7.2%
+ 9. 🍎 Objective-C        █   7.2%
+10. 🌐 HTML                  5.5%
+11. 🟡 JavaScript            3.5%
+12. 🎨 CSS                   3.3%
 ```
 
 **Total Languages**: 12
@@ -143,19 +143,19 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ---
 
 ### 🎯 **Engagement Metrics**
-- **Total Stars**: `11` ⭐
+- **Total Stars**: `12` ⭐
 - **Total Forks**: `1` 🍴
-- **Total Commits**: `234` 📝
-- **Average Stars per Repository**: `0.8`
+- **Total Commits**: `250` 📝
+- **Average Stars per Repository**: `0.9`
 - **Average Forks per Repository**: `0.1`
-- **Engagement Rate**: `0.9` per repository
+- **Engagement Rate**: `1.0` per repository
 
 ### 🏆 **Senior Developer Insights**
 - **Repository Management**: `13` active repositories
 - **Owned Projects**: `10` personal/owned repositories
 - **Collaborative Work**: `3` team/company projects
 - **Private Development**: `10` enterprise-level projects
-- **Community Engagement**: `12` total interactions
+- **Community Engagement**: `13` total interactions
 
 ---
 

@@ -30,10 +30,10 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
  3. 📊 Jupyter Notebook   ██  14.5%
  4. 🔵 TypeScript         █   8.5%
  5. ☕ Kotlin             █   7.9%
- 6. 🍎 Swift              █   7.1%
- 7. 🍎 Objective-C        █   7.1%
- 8. 🔴 C                     6.5%
- 9. 🔴 C++                   6.5%
+ 6. 🍎 Swift              █   7.2%
+ 7. 🍎 Objective-C        █   7.2%
+ 8. 🔴 C                     6.4%
+ 9. 🔴 C++                   6.4%
 10. 🌐 HTML                  3.3%
 11. 🟡 JavaScript            2.2%
 12. 🎨 CSS                   2.1%
@@ -145,7 +145,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `14` ⭐
 - **Total Forks**: `1` 🍴
-- **Total Commits**: `426` 📝
+- **Total Commits**: `432` 📝
 - **Average Stars per Repository**: `0.7`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.8` per repository

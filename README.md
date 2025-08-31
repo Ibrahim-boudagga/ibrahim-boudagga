@@ -25,22 +25,23 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🗣️ **Programming Languages Overview**
 
 ```
- 1. 🐦 Dart               ██  18.6%
- 2. 🐍 Python             ██  15.8%
- 3. 📊 Jupyter Notebook   ██  14.3%
- 4. 🔵 TypeScript         █   8.5%
- 5. ☕ Kotlin             █   7.9%
- 6. 🍎 Swift              █   7.1%
- 7. 🍎 Objective-C        █   7.1%
- 8. 🔴 C                     6.4%
- 9. 🔴 C++                   6.4%
-10. 🌐 HTML                  3.3%
-11. 🟡 JavaScript            2.2%
-12. 🎨 CSS                   2.1%
-13. 💻 Makefile              0.4%
+ 1. 🐦 Dart               ██  19.3%
+ 2. 🐍 Python             ██  15.1%
+ 3. 📊 Jupyter Notebook   ██  13.7%
+ 4. ☕ Kotlin             █   8.2%
+ 5. 🔵 TypeScript         █   8.1%
+ 6. 🍎 Swift              █   7.5%
+ 7. 🍎 Objective-C        █   7.5%
+ 8. 🔴 C                     6.1%
+ 9. 🔴 C++                   6.1%
+10. 🌐 HTML                  3.1%
+11. 🟡 JavaScript            2.1%
+12. 🎨 CSS                   2.0%
+13. 💻 Batchfile             0.7%
+14. 💻 Makefile              0.3%
 ```
 
-**Total Languages**: 13
+**Total Languages**: 14
 
 > **Automated Analytics Pipeline**: This languages dashboard is automatically updated daily via GitHub Actions to ensure the most current statistics are displayed.
 
@@ -146,16 +147,16 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `15` ⭐
 - **Total Forks**: `2` 🍴
-- **Total Commits**: `452` 📝
+- **Total Commits**: `456` 📝
 - **Average Stars per Repository**: `0.7`
 - **Average Forks per Repository**: `0.1`
-- **Engagement Rate**: `0.8` per repository
+- **Engagement Rate**: `0.7` per repository
 
 ### 🏆 **Senior Developer Insights**
-- **Repository Management**: `22` active repositories
-- **Owned Projects**: `14` personal/owned repositories
+- **Repository Management**: `23` active repositories
+- **Owned Projects**: `15` personal/owned repositories
 - **Collaborative Work**: `8` team/company projects
-- **Private Development**: `17` enterprise-level projects
+- **Private Development**: `18` enterprise-level projects
 - **Community Engagement**: `17` total interactions
 
 ---

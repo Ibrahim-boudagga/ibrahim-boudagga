@@ -25,7 +25,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🗣️ **Programming Languages Overview**
 
 ```
- 1. 🐦 Dart               █  13.0%
+ 1. 🐦 Dart               █  13.1%
  2. 🐍 Python             █  10.2%
  3. 🟡 JavaScript         █   9.5%
  4. 🎨 CSS                █   9.4%
@@ -149,7 +149,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `15` ⭐
 - **Total Forks**: `2` 🍴
-- **Total Commits**: `469` 📝
+- **Total Commits**: `473` 📝
 - **Average Stars per Repository**: `0.6`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.7` per repository

@@ -37,7 +37,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 10. 🍎 Objective-C           5.4%
 11. 🔴 C                     4.4%
 12. 🔴 C++                   4.4%
-13. 🌐 HTML                  2.5%
+13. 🌐 HTML                  2.6%
 14. 💻 Batchfile             0.5%
 15. 💻 Makefile              0.2%
 16. 💻 C#                    0.2%
@@ -151,7 +151,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `14` ⭐
 - **Total Forks**: `2` 🍴
-- **Total Commits**: `546` 📝
+- **Total Commits**: `548` 📝
 - **Average Stars per Repository**: `0.5`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.6` per repository

@@ -25,24 +25,24 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🗣️ **Programming Languages Overview**
 
 ```
- 1. 🐦 Dart               ██  17.3%
- 2. ☕ Kotlin             █  10.2%
- 3. 🍎 Swift              █   9.9%
- 4. 🍎 Objective-C        █   9.9%
- 5. 🐍 Python                6.6%
- 6. 🔴 C                     6.1%
- 7. 🔴 C++                   6.1%
- 8. 🎨 CSS                   6.1%
- 9. 🟡 JavaScript            6.0%
-10. 📊 Jupyter Notebook      5.8%
-11. 🐘 PHP                   5.3%
-12. 🌐 HTML                  5.0%
-13. 🔵 TypeScript            3.6%
+ 1. 🐦 Dart               ██  16.5%
+ 2. ☕ Kotlin             █   9.8%
+ 3. 🍎 Swift              █   9.5%
+ 4. 🍎 Objective-C        █   9.5%
+ 5. 🟡 JavaScript         █   6.9%
+ 6. 🐍 Python                6.3%
+ 7. 🐘 PHP                   6.2%
+ 8. 🌐 HTML                  5.9%
+ 9. 🔴 C                     5.8%
+10. 🔴 C++                   5.8%
+11. 🎨 CSS                   5.8%
+12. 📊 Jupyter Notebook      5.6%
+13. 🔵 TypeScript            3.4%
 14. 💻 Batchfile             1.4%
-15. 💻 Makefile              0.1%
-16. 💻 C#                    0.1%
-17. ☕ Java                  0.1%
-18. 💻 Hack                  0.1%
+15. 💻 Hack                  1.3%
+16. 💻 Makefile              0.1%
+17. 💻 C#                    0.1%
+18. ☕ Java                  0.1%
 ```
 
 **Total Languages**: 18
@@ -151,16 +151,16 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `14` ⭐
 - **Total Forks**: `2` 🍴
-- **Total Commits**: `561` 📝
+- **Total Commits**: `564` 📝
 - **Average Stars per Repository**: `0.5`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.5` per repository
 
 ### 🏆 **Senior Developer Insights**
-- **Repository Management**: `30` active repositories
+- **Repository Management**: `31` active repositories
 - **Owned Projects**: `21` personal/owned repositories
-- **Collaborative Work**: `9` team/company projects
-- **Private Development**: `26` enterprise-level projects
+- **Collaborative Work**: `10` team/company projects
+- **Private Development**: `27` enterprise-level projects
 - **Community Engagement**: `16` total interactions
 
 ---

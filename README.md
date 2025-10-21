@@ -41,8 +41,8 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 14. 💻 Batchfile             1.4%
 15. 💻 Hack                  1.3%
 16. 💻 C#                    0.2%
-17. 💻 Makefile              0.1%
-18. ☕ Java                  0.1%
+17. ☕ Java                  0.1%
+18. 💻 Makefile              0.1%
 ```
 
 **Total Languages**: 18
@@ -151,7 +151,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `14` ⭐
 - **Total Forks**: `2` 🍴
-- **Total Commits**: `568` 📝
+- **Total Commits**: `571` 📝
 - **Average Stars per Repository**: `0.4`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.5` per repository

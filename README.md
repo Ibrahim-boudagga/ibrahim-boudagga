@@ -26,18 +26,18 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 
 ```
  1. 🐦 Dart               ██  16.5%
- 2. ☕ Kotlin             █   9.8%
- 3. 🍎 Swift              █   9.5%
- 4. 🍎 Objective-C        █   9.5%
+ 2. ☕ Kotlin             █   9.7%
+ 3. 🍎 Swift              █   9.4%
+ 4. 🍎 Objective-C        █   9.4%
  5. 🟡 JavaScript         █   6.9%
  6. 🐍 Python                6.3%
  7. 🐘 PHP                   6.2%
- 8. 🌐 HTML                  5.9%
- 9. 🔴 C                     5.8%
-10. 🔴 C++                   5.8%
-11. 🎨 CSS                   5.8%
+ 8. 🌐 HTML                  6.0%
+ 9. 🎨 CSS                   5.9%
+10. 🔴 C                     5.8%
+11. 🔴 C++                   5.8%
 12. 📊 Jupyter Notebook      5.6%
-13. 🔵 TypeScript            3.4%
+13. 🔵 TypeScript            3.5%
 14. 💻 Batchfile             1.4%
 15. 💻 Hack                  1.3%
 16. 💻 C#                    0.2%
@@ -151,16 +151,16 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `14` ⭐
 - **Total Forks**: `2` 🍴
-- **Total Commits**: `571` 📝
+- **Total Commits**: `578` 📝
 - **Average Stars per Repository**: `0.4`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.5` per repository
 
 ### 🏆 **Senior Developer Insights**
-- **Repository Management**: `32` active repositories
+- **Repository Management**: `33` active repositories
 - **Owned Projects**: `22` personal/owned repositories
-- **Collaborative Work**: `10` team/company projects
-- **Private Development**: `28` enterprise-level projects
+- **Collaborative Work**: `11` team/company projects
+- **Private Development**: `29` enterprise-level projects
 - **Community Engagement**: `16` total interactions
 
 ---

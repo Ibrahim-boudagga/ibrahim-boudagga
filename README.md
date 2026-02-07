@@ -36,7 +36,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
  9. 🐘 PHP                   5.9%
 10. 🔴 C                     5.5%
 11. 🔴 C++                   5.5%
-12. 📊 Jupyter Notebook      5.3%
+12. 📊 Jupyter Notebook      5.2%
 13. 🔵 TypeScript            4.3%
 14. 💻 Hack                  1.3%
 15. 💻 Batchfile             1.3%
@@ -151,7 +151,7 @@ I'm a **Senior Flutter Developer** with **4+ years of experience** in mobile dev
 ### 🎯 **Engagement Metrics**
 - **Total Stars**: `15` ⭐
 - **Total Forks**: `2` 🍴
-- **Total Commits**: `755` 📝
+- **Total Commits**: `757` 📝
 - **Average Stars per Repository**: `0.4`
 - **Average Forks per Repository**: `0.1`
 - **Engagement Rate**: `0.4` per repository
